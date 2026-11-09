@@ -2,6 +2,9 @@
 
 ## What is ShredX?
 
+<img width="1347" height="907" alt="screenshoot" src="https://github.com/user-attachments/assets/a85f2b01-5359-4e5e-b9e3-58fe5e6079c1" />
+
+
 ShredX deletes files and folders so they cannot be recovered: before deletion, the content is overwritten several times and the name is changed randomly several times. ShredX can also securely clean the free space of a drive and the Recycle Bin.
 
 ## Adding files and folders
