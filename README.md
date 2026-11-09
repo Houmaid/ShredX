@@ -1,4 +1,4 @@
-# ShredX 1.1.0 
+# ShredX V1.1.0 
 
 ## What is ShredX?
 
